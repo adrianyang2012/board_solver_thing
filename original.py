@@ -58,3 +58,4 @@ def floodfill(board,piece):
                     return a
     return False
 floodfill(board,0)
+board
